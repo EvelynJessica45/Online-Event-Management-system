@@ -75,11 +75,6 @@ The **Online Event Management System** is a web-based application designed to si
    http://localhost:8080/event_management
    ```
 
-## 🖼️ Screenshots
-![Home Page](https://github.com/EvelynJessica45/Online-Event-Management-system/blob/main/screenshots/home.png)
-![Event Registration](https://github.com/EvelynJessica45/Online-Event-Management-system/blob/main/screenshots/register.png)
-![Booking Summary](https://github.com/EvelynJessica45/Online-Event-Management-system/blob/main/screenshots/summary.png)
-
 ## 👩‍💻 Contributor
 **Evelyn Jessica**  
 [GitHub](https://github.com/EvelynJessica45) | [LinkedIn](https://www.linkedin.com/in/evelyn-jessica-9a066a231/)
