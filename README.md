@@ -12,14 +12,20 @@ The **Online Event Management System** is a web-based application designed to si
 - 🟢 **Database Integration (MySQL)**
 - 🔒 **Secure Authentication with Servlets & Sessions**
 
-  ### Screenshots
+ ### Screenshots
 
-![Event Registration](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/main/localhost_6060_event_registration_(high%20res).png)  
-![Event Registration (1)](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/main/localhost_6060_event_registration_(high%20res)%20(1).png)  
-![Event Registration (2)](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/main/localhost_6060_event_registration_(high%20res)%20(2).png)  
-![Create Event](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/main/localhost_6060_event_registration_createEvent.jsp(high%20res).png)  
-![Login Page](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/main/localhost_6060_event_registration_login.jsp(high%20res).png)  
-![User Dashboard](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/main/localhost_6060_event_registration_userDashboard.jsp(high%20res).png)  
+![Event Registration](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/a697a260b18faa660eee645f3fc41025fcaea11a/localhost_6060_event_registration_(high%20res).png)  
+
+![Event Registration (1)](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/a697a260b18faa660eee645f3fc41025fcaea11a/localhost_6060_event_registration_(high%20res)%20(1).png)  
+
+![Event Registration (2)](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/a697a260b18faa660eee645f3fc41025fcaea11a/localhost_6060_event_registration_(high%20res)%20(2).png)  
+
+![Create Event](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/a697a260b18faa660eee645f3fc41025fcaea11a/localhost_6060_event_registration_createEvent.jsp(high%20res).png)  
+
+![Login Page](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/a697a260b18faa660eee645f3fc41025fcaea11a/localhost_6060_event_registration_login.jsp(high%20res).png)  
+
+![User Dashboard](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/a697a260b18faa660eee645f3fc41025fcaea11a/localhost_6060_event_registration_userDashboard.jsp(high%20res).png)  
+
 
 
 ## 🛠️ Tech Stack
