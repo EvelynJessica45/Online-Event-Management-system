@@ -14,7 +14,7 @@ The **Online Event Management System** is a web-based application designed to si
 
  ### Screenshots
 
-![Event Registration](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/a697a260b18faa660eee645f3fc41025fcaea11a/localhost_6060_event_registration_(high%20res).png)  
+![Event Registration]([https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/a697a260b18faa660eee645f3fc41025fcaea11a/localhost_6060_event_registration_(high%20res).png](https://github.com/EvelynJessica45/Online-Event-Management-system/blob/4bc6c146bb5e6234572ff5fda8b823f80e21ff53/localhost_6060_event_registration_(high%20res)%20(1).png))  
 
 ![Event Registration (1)](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/a697a260b18faa660eee645f3fc41025fcaea11a/localhost_6060_event_registration_(high%20res)%20(1).png)  
 
