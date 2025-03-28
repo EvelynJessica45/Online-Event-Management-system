@@ -16,16 +16,20 @@ The **Online Event Management System** is a web-based application designed to si
 
 ![Event Registration Page](https://github.com/EvelynJessica45/Online-Event-Management-system/raw/f47a5aa3b09500ec9237268d09fe260a40b78793/localhost_6060_event_registration_(high%20res)%20(1).png)
 
+### Event Registration Page
+![Event Registration Page](https://github.com/EvelynJessica45/Online-Event-Management-system/raw/953c88f8cee4e8114955d2e4dbc104d1bab8a74b/localhost_6060_event_registration_(high%20res).png)
 
-![Event Registration (1)](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/a697a260b18faa660eee645f3fc41025fcaea11a/localhost_6060_event_registration_(high%20res)%20(1).png)  
+### Event Registration Page (Alternative View)
+![Event Registration Page 2](https://github.com/EvelynJessica45/Online-Event-Management-system/raw/953c88f8cee4e8114955d2e4dbc104d1bab8a74b/localhost_6060_event_registration_(high%20res)%20(2).png)
 
-![Event Registration (2)](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/a697a260b18faa660eee645f3fc41025fcaea11a/localhost_6060_event_registration_(high%20res)%20(2).png)  
+### Create Event Page
+![Create Event Page](https://github.com/EvelynJessica45/Online-Event-Management-system/raw/953c88f8cee4e8114955d2e4dbc104d1bab8a74b/localhost_6060_event_registration_createEvent.jsp(high%20res).png)
 
-![Create Event](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/a697a260b18faa660eee645f3fc41025fcaea11a/localhost_6060_event_registration_createEvent.jsp(high%20res).png)  
+### Login Page
+![Login Page](https://github.com/EvelynJessica45/Online-Event-Management-system/raw/953c88f8cee4e8114955d2e4dbc104d1bab8a74b/localhost_6060_event_registration_login.jsp(high%20res).png)
 
-![Login Page](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/a697a260b18faa660eee645f3fc41025fcaea11a/localhost_6060_event_registration_login.jsp(high%20res).png)  
-
-![User Dashboard](https://raw.githubusercontent.com/EvelynJessica45/Online-Event-Management-system/a697a260b18faa660eee645f3fc41025fcaea11a/localhost_6060_event_registration_userDashboard.jsp(high%20res).png)  
+### User Dashboard
+![User Dashboard](https://github.com/EvelynJessica45/Online-Event-Management-system/raw/953c88f8cee4e8114955d2e4dbc104d1bab8a74b/localhost_6060_event_registration_userDashboard.jsp(high%20res).png)
 
 
 
