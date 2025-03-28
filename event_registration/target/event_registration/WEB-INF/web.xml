@@ -1,0 +1,49 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+
+  <servlet>
+        <servlet-name>RegisterServlet</servlet-name>
+        <servlet-class>com.EventRegistration.RegisterServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>RegisterServlet</servlet-name>
+        <url-pattern>/register</url-pattern>
+    </servlet-mapping>
+
+
+
+      <servlet>
+        <servlet-name>LoginServlet</servlet-name>
+        <servlet-class>com.EventRegistration.LoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>LoginServlet</servlet-name>
+        <url-pattern>/login</url-pattern>
+    </servlet-mapping>
+
+ <!-- <servlet>
+        <servlet-name>CreateEventServlet</servlet-name>
+        <servlet-class>com.EventRegistration.CreateEventServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>CreateEventServlet</servlet-name>
+        <url-pattern>/CreateEventServlet</url-pattern>
+    </servlet-mapping> -->
+
+
+    <servlet>
+        <servlet-name>EventServlet</servlet-name>
+        <servlet-class>com.EventRegistration.EventServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>EventServlet</servlet-name>
+        <url-pattern>/event</url-pattern>
+    </servlet-mapping>
+
+</web-app>
+

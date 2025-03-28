@@ -1,0 +1,3 @@
+com\EventRegistration\RegisterServlet.class
+com\EventRegistration\CreateEventServlet.class
+com\EventRegistration\LoginServlet.class
