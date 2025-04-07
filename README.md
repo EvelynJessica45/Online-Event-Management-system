@@ -9,7 +9,7 @@ The **Online Event Management System** is a web-based application designed to si
 - 🔍 **Browse & Register for Events**
 - 📝 **Dynamic Event Listings (JSP)**
 - 📊 **Booking Summary & History**
-- 🟢 **Database Integration (MySQL)**
+- 🟢 **Database Integration (Oracle)**
 - 🔒 **Secure Authentication with Servlets & Sessions**
 
  ### Screenshots
